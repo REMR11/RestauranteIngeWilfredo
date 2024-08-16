@@ -1,0 +1,15 @@
+E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.BL\bin\Debug\net8.0\Restaurante.BL.deps.json
+E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.BL\bin\Debug\net8.0\Restaurante.BL.dll
+E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.BL\bin\Debug\net8.0\Restaurante.BL.pdb
+E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.BL\bin\Debug\net8.0\Restaurante.DAL.dll
+E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.BL\bin\Debug\net8.0\Restaurante.DAL.pdb
+E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.BL\obj\Debug\net8.0\Restaurante.BL.csproj.AssemblyReference.cache
+E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.BL\obj\Debug\net8.0\Restaurante.BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.BL\obj\Debug\net8.0\Restaurante.BL.AssemblyInfoInputs.cache
+E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.BL\obj\Debug\net8.0\Restaurante.BL.AssemblyInfo.cs
+E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.BL\obj\Debug\net8.0\Restaurante.BL.csproj.CoreCompileInputs.cache
+E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.BL\obj\Debug\net8.0\Restaura.84DF8BD2.Up2Date
+E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.BL\obj\Debug\net8.0\Restaurante.BL.dll
+E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.BL\obj\Debug\net8.0\refint\Restaurante.BL.dll
+E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.BL\obj\Debug\net8.0\Restaurante.BL.pdb
+E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.BL\obj\Debug\net8.0\ref\Restaurante.BL.dll

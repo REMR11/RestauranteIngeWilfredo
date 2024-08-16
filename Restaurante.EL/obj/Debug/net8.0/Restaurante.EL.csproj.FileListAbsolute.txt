@@ -1,0 +1,13 @@
+E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.EL\obj\Debug\net8.0\Restaurante.EL.GeneratedMSBuildEditorConfig.editorconfig
+E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.EL\obj\Debug\net8.0\Restaurante.EL.AssemblyInfoInputs.cache
+E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.EL\obj\Debug\net8.0\Restaurante.EL.AssemblyInfo.cs
+E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.EL\obj\Debug\net8.0\Restaurante.EL.csproj.CoreCompileInputs.cache
+E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.EL\bin\Debug\net8.0\Restaurante.EL.deps.json
+E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.EL\bin\Debug\net8.0\Restaurante.EL.runtimeconfig.json
+E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.EL\bin\Debug\net8.0\Restaurante.EL.dll
+E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.EL\bin\Debug\net8.0\Restaurante.EL.pdb
+E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.EL\obj\Debug\net8.0\Restaurante.EL.dll
+E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.EL\obj\Debug\net8.0\refint\Restaurante.EL.dll
+E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.EL\obj\Debug\net8.0\Restaurante.EL.pdb
+E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.EL\obj\Debug\net8.0\Restaurante.EL.genruntimeconfig.cache
+E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.EL\obj\Debug\net8.0\ref\Restaurante.EL.dll
