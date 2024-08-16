@@ -554,10 +554,16 @@
       "Restaurante.DAL/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "8.0.0",
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.0"
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.0",
+          "Restaurante.EL": "1.0.0"
         },
         "runtime": {
           "Restaurante.DAL.dll": {}
+        }
+      },
+      "Restaurante.EL/1.0.0": {
+        "runtime": {
+          "Restaurante.EL.dll": {}
         }
       }
     }
@@ -947,6 +953,11 @@
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
     },
     "Restaurante.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Restaurante.EL/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

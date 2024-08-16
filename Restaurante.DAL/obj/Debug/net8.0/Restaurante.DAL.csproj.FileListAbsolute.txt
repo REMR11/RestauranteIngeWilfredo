@@ -12,3 +12,7 @@ E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.DAL\obj\Debug\net8.0\refint\Res
 E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.DAL\obj\Debug\net8.0\Restaurante.DAL.pdb
 E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.DAL\obj\Debug\net8.0\Restaurante.DAL.genruntimeconfig.cache
 E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.DAL\obj\Debug\net8.0\ref\Restaurante.DAL.dll
+E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.DAL\obj\Debug\net8.0\Restaurante.DAL.sourcelink.json
+E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.DAL\bin\Debug\net8.0\Restaurante.EL.dll
+E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.DAL\bin\Debug\net8.0\Restaurante.EL.pdb
+E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.DAL\obj\Debug\net8.0\Restaura.6CE67A45.Up2Date

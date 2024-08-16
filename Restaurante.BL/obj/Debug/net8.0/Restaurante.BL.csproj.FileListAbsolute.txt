@@ -13,3 +13,6 @@ E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.BL\obj\Debug\net8.0\Restaurante
 E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.BL\obj\Debug\net8.0\refint\Restaurante.BL.dll
 E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.BL\obj\Debug\net8.0\Restaurante.BL.pdb
 E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.BL\obj\Debug\net8.0\ref\Restaurante.BL.dll
+E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.BL\obj\Debug\net8.0\Restaurante.BL.sourcelink.json
+E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.BL\bin\Debug\net8.0\Restaurante.EL.dll
+E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.BL\bin\Debug\net8.0\Restaurante.EL.pdb

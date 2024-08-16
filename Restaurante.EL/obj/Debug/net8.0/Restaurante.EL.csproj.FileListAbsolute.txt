@@ -11,3 +11,4 @@ E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.EL\obj\Debug\net8.0\refint\Rest
 E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.EL\obj\Debug\net8.0\Restaurante.EL.pdb
 E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.EL\obj\Debug\net8.0\Restaurante.EL.genruntimeconfig.cache
 E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.EL\obj\Debug\net8.0\ref\Restaurante.EL.dll
+E:\CsharpUFG\RestauranteIngeWilfredo\Restaurante.EL\obj\Debug\net8.0\Restaurante.EL.sourcelink.json
